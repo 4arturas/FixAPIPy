@@ -1,0 +1,24 @@
+= Terraform
+:toc:
+v1.0, 2020-11-10
+:example-caption!:
+:sectnums:
+:sectnumlevels: 4
+:icons: font
+:source-highlighter: prettify
+
+//++++
+//<iframe width="560" height="315" src="https://www.youtube.com/embed/X48VuDVv0do?start=139&end=321" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+//++++
+
+== What is fix protocol?
+
+Fix API for algorithmic trading
+
+FIX - Financial Informatino eXchange protocol(no API...)
+
+https://www.fixtrading.org/
+
+== Pros and Cons
+== Darwinex FIX offering
+== Q&A
